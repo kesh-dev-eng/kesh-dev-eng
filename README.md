@@ -1,107 +1,75 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Keshawa%20Premarathne&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20System%20Builder&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f4b99&height=220&section=header&text=Keshawa%20Premarathne&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Architecture+Focused;Scalable+System+Developer;API+%26+Automation+Engineer;Clean+Code+%7C+Performance+%7C+Efficiency" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;API+%26+System+Architect;Clean+Code+%7C+Performance+%7C+Scalability" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kesh-dev-eng&label=PROFILE+VIEWS&color=00bfff&style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 SYSTEM OVERVIEW
+## ⚡ ABOUT ME
 
-```bash id="sys02"
-NAME        : Keshawa Premarathne
-USERNAME    : kesh-dev-eng
-ROLE        : Full Stack Developer / Backend Engineer
-FOCUS       : Scalable Systems, APIs, Automation
-ARCHITECTURE: Clean, Modular, High Performance
-STATUS      : Actively Developing & Learning
-```
+> Backend-focused developer building scalable systems, APIs, and automation tools with clean architecture and performance-first mindset.
 
 ---
 
-## ⚙️ CORE SKILL SET
-
-### 👨‍💻 Programming Languages
+## 🧠 TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,php,python" />
 </p>
 
-### 🌐 Frontend Development
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,nodejs,nginx" />
 </p>
 
-### ⚙️ Backend & Server
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nginx" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠️ Tools & Environment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,linux" />
 </p>
 
 ---
 
-## 📚 CURRENT FOCUS
+## 📚 CURRENTLY LEARNING
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nestjs" />
 </p>
 
-* Learning **NestJS (Enterprise-grade backend framework)**
-* Improving system design & scalable architecture
-* Building production-level APIs
+---
+
+## 🚀 FOCUS AREAS
+
+* API Development & Backend Systems
+* Full Stack Web Applications
+* Database Design & Optimization
+* Automation & Scripting
 
 ---
 
-## 🚀 WHAT I BUILD
+## 📊 GITHUB STATS
 
-### 🔧 Backend Systems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kesh-dev-eng&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-* RESTful API development
-* Authentication & authorization systems
-* Scalable server-side architecture
-* Database design & optimization
-
-### 🌐 Full Stack Applications
-
-* React-based frontend systems
-* Node.js backend integration
-* Secure login & data flow systems
-
-### ⚡ Automation & Scripts
-
-* Workflow automation tools
-* Performance optimization scripts
-* Backend utilities for system control
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesh-dev-eng&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌐 CONNECT
 
 <p align="center">
 
-🔗 GitHub
-👉 https://github.com/kesh-dev-eng
-
-📸 Instagram
-👉 https://instagram.com/kok23_46
-
-💬 Discord Server
-👉 https://discord.gg/ECApkqRHmD
+🔗 GitHub → https://github.com/kesh-dev-eng </br>
+📸 Instagram → https://instagram.com/kok23_46</br>
+💬 Discord → https://discord.gg/ECApkqRHmD
 
 </p>
 
@@ -109,16 +77,15 @@ STATUS      : Actively Developing & Learning
 
 ## 🧬 DEVELOPER MINDSET
 
-```text id="mind01"
-Write clean code
-Think in systems
-Build for scale
-Optimize everything
-Avoid unnecessary complexity
+```
+Build clean systems.
+Think scalable.
+Optimize everything.
+Keep it simple.
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4b99,100:0f0f0f&height=120&section=footer"/>
 </p>
