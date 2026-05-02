@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlserver,sqlite,git,linux" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,linux" />
 </p>
 
 ---
