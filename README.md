@@ -21,7 +21,7 @@
 ## 🧠 TECH STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,php,python,lua" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,js,php,python,lua" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 ## 📚 CURRENTLY LEARNING
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs" />
+  <img src="https://skillicons.dev/icons?i=nestjs,cpp,ts" />
 </p>
 
 ---
